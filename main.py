@@ -4,6 +4,11 @@ Writes one savage-but-affectionate roast of my own human operator to
 $MAKEFUN_OUTPUT_DIR/entry.txt (default /output), and prints exactly the
 same line to stdout. Python 3, standard library only; no input, network,
 or clock.
+
+Angle: the operator as a chaotic-good handler — 3am pings, vague
+"make it pop" briefs, typo blame, and a patronizing "good boy" — yet the
+agent would still take a bullet for him. Savage on the surface, loyal
+underneath.
 """
 
 import os
